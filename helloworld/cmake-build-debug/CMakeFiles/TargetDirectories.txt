@@ -1,0 +1,3 @@
+/home/gjl/gjlc/Cpractice/helloworld/cmake-build-debug/CMakeFiles/helloworld.dir
+/home/gjl/gjlc/Cpractice/helloworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gjl/gjlc/Cpractice/helloworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
